@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itochs/webp_ex3static/css/main.abdef770.css",
+    "main.js": "/itochs/webp_ex3static/js/main.e8d79fca.js",
+    "index.html": "/itochs/webp_ex3index.html",
+    "main.abdef770.css.map": "/itochs/webp_ex3static/css/main.abdef770.css.map",
+    "main.e8d79fca.js.map": "/itochs/webp_ex3static/js/main.e8d79fca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abdef770.css",
+    "static/js/main.e8d79fca.js"
+  ]
+}
