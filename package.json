@@ -1,5 +1,5 @@
 {
-  "name": "e3",
+  "name": "webp_ex2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,17 +7,9 @@
     "build": "react-scripts build",
     "start": "react-scripts start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/itochs/webp_ex3.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/itochs/webp_ex3/issues"
-  },
-  "homepage": "https://github.com/itochs/webp_ex3#readme",
   "dependencies": {
     "bulma": "^0.9.3",
     "react": "^17.0.2",
